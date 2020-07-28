@@ -1,0 +1,1 @@
+The following jupyter notebooks are worked examples from the Deep Learning With Pytorch book by Manning
